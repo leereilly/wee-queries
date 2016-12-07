@@ -1,6 +1,6 @@
 # Wee Queries
 
-Query sets for [BigQuery](https://cloud.google.com/bigquery/) :mag:
+Query sets for [BigQuery](https://bigquery.cloud.google.com/dataset/bigquery-public-data:github_repos) :mag:
 
 ## Example
 
